@@ -11,7 +11,7 @@ db_name = 'jenkinsDB.db'
 
 # server instance
 server = Jenkins(jenkins_url, username, password)
-print(server.get_jobs())
+# print(server.get_jobs())
 
 # Initiate Database
 db_connect = sqlite3.connect(db_name)
