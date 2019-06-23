@@ -1,5 +1,3 @@
 Username: JenkinsDroplet
 Password: JenkinsDroplet404
-Fullname: Austin Jenkins
-Email Address:  Hursteen@gmail.com
 Jenkins URL: http://localhost:9090/
