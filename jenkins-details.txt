@@ -1,3 +1,0 @@
-Username: JenkinsDroplet
-Password: JenkinsDroplet404
-Jenkins URL: http://localhost:9090/
